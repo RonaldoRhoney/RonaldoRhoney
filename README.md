@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ronaldorhoney&show_icons=true&theme=tokyonight">
 
-<img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoRhoney&layout=compact">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" width="60">
 </div>
 
 ## Contato
