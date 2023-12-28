@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ronaldorhoney&show_icons=true&theme=tokyonight">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" width="60">
+<img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoRhoney&layout=compact">
 </div>
 
 ## Contato
 
-<a href="https://www.linkedin.com/in/ronaldo-martins-438034113/">
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin](https://www.linkedin.com/in/ronaldo-martins-438034113/)-original.svg" align="center" height="50" width="60">
+<a href="LinkeDin">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" width="60">
 
 </a>
 
