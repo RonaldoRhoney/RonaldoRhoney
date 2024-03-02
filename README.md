@@ -1,4 +1,4 @@
-<h1> Hi! My name is Ronaldo Martins. </h1>
+<h1> Hi! My name is: Ronaldo Martins. </h1>
 
 <div>
   <a href="https://github.com/RonaldoRhoney">
