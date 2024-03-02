@@ -28,4 +28,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoRhoney&repo=RonaldoRhoney&theme=react)](https://github.com/RonaldoRhoney/RonaldoRhoney)
+![readme](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoRhoney&repo=RonaldoRhoney&theme=react)](https://github.com/RonaldoRhoney/RonaldoRhoney)
