@@ -41,4 +41,4 @@
 
 ## ✨ Frase
 
-> "Transformando código em soluções reais."
+> "Aprendendo a aprender."
