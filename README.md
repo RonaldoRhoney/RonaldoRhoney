@@ -8,7 +8,7 @@
 
 🚀 Sobre Mim
 
-Sou um estudante de tecnologia apaixonado por Python, Dados e Desenvolvimento Web. Busco constantemente expandir meus conhecimentos e habilidades, aplicando-os em projetos práticos. Acredito que a jornada de aprendizado é contínua, e como costumo dizer: "Aprendendo a aprender."
+Sou um estudante de tecnologia apaixonado por Python, Dados, Inteligência Artificial e Desenvolvimento Web. Busco constantemente expandir meus conhecimentos e habilidades, aplicando-os em projetos práticos. Acredito que a jornada de aprendizado é contínua, e como costumo dizer: "Aprendendo a aprender."
 
 💻 Tecnologias que Utilizo
 
