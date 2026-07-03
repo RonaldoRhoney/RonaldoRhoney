@@ -1,44 +1,43 @@
-# 👋 Olá, eu sou Ronaldo!
+👋 Olá, eu sou Ronaldo Martins!
 
-💻 Estudante de Tecnologia | Python | Dados | Web  
-🚀 Em constante evolução na área de desenvolvimento  
+<p align="center">
+<a href="https://github.com/RonaldoRhoney">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=430&lines=Estudante+de+Tecnologia;Desenvolvedor+Python;Entusiasta+de+Dados;Desenvolvedor+Web;Em+constante+evolu%C3%A7%C3%A3o!" alt="Typing SVG" />
+  </a>
+</p>
 
----
+🚀 Sobre Mim
 
-## 🚀 Tecnologias que utilizo
+Sou um estudante de tecnologia apaixonado por Python, Dados e Desenvolvimento Web. Busco constantemente expandir meus conhecimentos e habilidades, aplicando-os em projetos práticos. Acredito que a jornada de aprendizado é contínua, e como costumo dizer: "Aprendendo a aprender."
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="JS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
+💻 Tecnologias que Utilizo
 
----
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,mysql,git,github,linux,vscode" />
+  </a>
+</p>
 
-## 📊 Estatísticas GitHub
+📊 Estatísticas GitHub
+
+<p align="center">
+<a href="https://github.com/RonaldoRhoney">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonaldoRhoney&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoRhoney&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+🌐 Conecte-se Comigo
 
 <div>
-  <a href="https://github.com/RonaldoRhoney">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonaldoRhoney&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoRhoney&layout=compact&langs_count=7&theme=tokyonight"/>
+<a href="https://www.linkedin.com/in/ronaldo-martins-438034113" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+  </a>
+  <a href="https://www.instagram.com/ronaldorhoney" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:ronaldorhoney@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23336633?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
 
----
-
-## 🌐 Contato
-
-<div> 
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <a href="https://www.instagram.com/ronaldorhoney" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      <img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-</div>
-
----
-
-## ✨ Frase
-
-> "Aprendendo a aprender."
