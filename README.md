@@ -15,7 +15,7 @@ Sou um estudante de tecnologia apaixonado por Python, Dados e Desenvolvimento We
 💻 Tecnologias e Habilidades
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,Lovable, ClaudeAI,github,linux,vscode" alt="Minhas Tecnologias" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,Lovable,ClaudeAI,github,linux,vscode" alt="Minhas Tecnologias" />
 </p>
 
 
