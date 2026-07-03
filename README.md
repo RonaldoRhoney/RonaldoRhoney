@@ -8,7 +8,7 @@
 
 🚀 Sobre Mim
 
-Sou um estudante de tecnologia apaixonado por Python, Dados, Inteligência Artificial e Desenvolvimento Web. Busco constantemente expandir meus conhecimentos e habilidades, aplicando-os em projetos práticos. Acredito que a jornada de aprendizado é contínua, e como costumo dizer: "Aprendendo a aprender."
+Sou um estudante de tecnologia apaixonado por Python, Dados e Desenvolvimento Web. Busco constantemente expandir meus conhecimentos e habilidades, aplicando-os em projetos práticos. Acredito que a jornada de aprendizado é contínua, e como costumo dizer: "Aprendendo a aprender."
 
 💻 Tecnologias que Utilizo
 
@@ -27,6 +27,14 @@ Sou um estudante de tecnologia apaixonado por Python, Dados, Inteligência Artif
   </a>
 </p>
 
+📈 Linguagens e Tecnologias Mais Usadas
+
+<p align="center">
+<a href="https://github.com/RonaldoRhoney">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoRhoney&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=320"/>
+  </a>
+</p>
+
 🌐 Conecte-se Comigo
 
 <div>
@@ -40,4 +48,6 @@ Sou um estudante de tecnologia apaixonado por Python, Dados, Inteligência Artif
     <img src="https://img.shields.io/badge/-Email-%23336633?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
+
+⭐️ De RonaldoRhoney com ❤️
 
