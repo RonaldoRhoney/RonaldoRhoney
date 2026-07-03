@@ -75,11 +75,11 @@ Percentual estimado de uso de cada tecnologia com base nos meus produtos ativos 
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RonaldoRhoney&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas Gerais" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoRhoney&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" width="300" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=RonaldoRhoney&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas Gerais" width="400" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RonaldoRhoney&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" width="300" />
 </p>
 
-<p align="center"><sub>Se as imagens acima não carregarem, é devido a instabilidade nos servidores do GitHub Readme Stats. Alternativa: <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">GitHub Profile Summary Cards</a>.</sub></p>
+<p align="center"><sub>Se as imagens acima não carregarem, é devido a instabilidade momentânea do serviço. Alternativa: <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">GitHub Profile Summary Cards</a>.</sub></p>
 
 ---
 
