@@ -4,9 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Estudante+de+Tecnologia;Desenvolvedor+Python;Entusiasta+de+Dados;Desenvolvedor+Web;Aprendendo+a+aprender!" alt="Typing SVG" />
 </p>
 
-
-
-
 🚀 Sobre Mim
 
 Sou um estudante de tecnologia apaixonado por Python, Dados e Desenvolvimento Web. Busco constantemente expandir meus conhecimentos e habilidades, aplicando-os em projetos práticos.
@@ -15,12 +12,10 @@ Sou um estudante de tecnologia apaixonado por Python, Dados e Desenvolvimento We
 "Aprendendo a aprender."
 
 
-
-
 💻 Tecnologias e Habilidades
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,mysql,git,github,linux,vscode" alt="Minhas Tecnologias" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,Lovable, ClaudeAI,github,linux,vscode" alt="Minhas Tecnologias" />
 </p>
 
 
