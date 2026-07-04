@@ -52,7 +52,6 @@ Percentual estimado de uso de cada tecnologia com base nos meus produtos ativos 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RonaldoRhoney&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" width="300" />
 </p>
 <p align="center"><sub>Se as imagens acima não carregarem, é devido a instabilidade momentânea do serviço. Alternativa: <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">GitHub Profile Summary Cards</a>.</sub></p>
----
 ## 🌐 Conecte-se Comigo
 <p align="center">
 <a href="https://www.linkedin.com/in/ronaldo-martins-438034113" target="_blank">
