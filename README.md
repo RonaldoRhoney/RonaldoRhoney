@@ -45,7 +45,6 @@ Percentual estimado de uso de cada tecnologia com base nos meus produtos ativos 
 <tr><td>6</td><td>Claude AI / n8n</td><td>10%</td></tr>
 <tr><td>7</td><td>Docker / GitHub Actions</td><td>6%</td></tr>
 </table>
----
 ## 📈 Estatísticas do GitHub
 <p align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=RonaldoRhoney&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas Gerais" width="400" />
